@@ -1,0 +1,25 @@
+.navbar__container {
+  height: 60px;
+  background-color: #e7e3e3;
+}
+
+.nav__menu {
+  margin-left: 70px;
+  display: flex;
+  justify-content: space-around;
+  flex: 1;
+  align-items: center;
+}
+
+.nav__menu > a {
+  display: flex;
+  align-items: center;
+  padding: 20px 5px;
+  cursor: pointer;
+}
+
+.nav__menu > span {
+  font-size: 13px;
+  letter-spacing: 1.42px;
+  position: relative;
+}

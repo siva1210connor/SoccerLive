@@ -1,0 +1,15 @@
+.hero_1 {
+  height: 30px;
+  width: 80%;
+  margin-left: 100px;
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  border-radius: 8px;
+  background-color: #e7e3e3;
+}
+
+.arrow {
+  height: 15px;
+}
